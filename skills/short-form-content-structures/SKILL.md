@@ -1,7 +1,8 @@
 ---
 name: short-form-content-structures
-description: >
-  Apply this skill whenever a user wants to generate, brainstorm, or write short-form social media content (TikTok, Reels, Shorts) using proven viral structures. Trigger when the user mentions content templates, video scripts, short-form hooks, or asks how to quickly produce content for a niche. Also use when the user provides a topic and wants a ready-to-film video idea — even if they don't say "structure" explicitly.
+description: "Apply this skill whenever a user wants to generate, brainstorm, or write short-form social media content (TikTok, Reels, Shorts) using proven viral structures. Trigger when the user mentions content templates, video scripts, short-form hooks, or asks how to quickly produce content for a niche. Also use when the user provides a topic and wants a ready-to-film video idea. For general marketing strategy, see social. For video production, see video."
+metadata:
+  version: 1.0.0
 ---
 
 # Short-Form Content Structures
@@ -110,3 +111,12 @@ When given a topic or niche, choose the best-fit structure and output a ready-to
 3. Fill in the template with specific, niche-relevant details
 4. Keep the total video under 60 seconds in spoken length
 5. Suggest a hook line and a CTA (call to action) at the end if needed
+
+---
+
+## Related Skills
+
+- **social**: For broader social media content strategy and scheduling.
+- **video**: For tools and methods to produce the videos.
+- **copywriting**: For writing persuasive hooks and text copy.
+- **marketing-ideas**: For brainstorming broader growth ideas and SaaS marketing tactics.
