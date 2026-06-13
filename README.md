@@ -33,19 +33,27 @@ Skills are structured Markdown documents following the [Agent Skills specificati
 
 ## Installation
 
-### Option 1: Claude Code Plugin (Recommended)
+### Option 1: AI Agent Prompt (Recommended for Agent IDEs)
+
+If you are using an AI coding assistant (like Cursor, Windsurf, or VS Code with Claude), you can ask it to install the skill for you:
+
+> **Prompt:** "Please install the social media content creation skill from github.com/davideak22/Social-Media-Content-Creation-Skill into my skills folder."
+
+The agent will automatically create the `.agents/skills` folder and place the structures files there.
+
+### Option 2: Claude Code Plugin (Native)
 
 You can install these skills directly through Claude Code's built-in plugin system:
 
 ```bash
-# Add the marketplace
+# Add the marketplace to your active Claude Code session
 /plugin marketplace add davideak22/Social-Media-Content-Creation-Skill
 
 # Install the social media content creation plugin
 /plugin install social-media-content-creation-skill
 ```
 
-### Option 2: CLI Installation
+### Option 3: CLI Installation (Global Developer Shell)
 
 Use Vercel's `skills` CLI tool to download and install these skills directly into your project's agent path:
 
@@ -56,7 +64,7 @@ npx skills add davideak22/Social-Media-Content-Creation-Skill
 
 This installs them to your `.agents/skills/` directory and creates the appropriate symlinks.
 
-### Option 3: Git Submodule
+### Option 4: Git Submodule
 
 If you want to keep the skills up-to-date and track them in your project, add the repo as a git submodule:
 
@@ -64,7 +72,7 @@ If you want to keep the skills up-to-date and track them in your project, add th
 git submodule add https://github.com/davideak22/Social-Media-Content-Creation-Skill.git .agents/skills-social
 ```
 
-### Option 4: Clone and Copy
+### Option 5: Clone and Copy
 
 Simply clone the repository and copy the folders to your local agent skills path:
 
