@@ -143,10 +143,17 @@ Follow the [Conventional Commits](https://www.conventionalcommits.org/) specific
 - `fix: improve clarity in hook structures`
 - `docs: update README`
 
+### Versioning Rules
+
+Every time a skill or configuration is changed, updated, or fixed, version numbers must be bumped:
+1. Increment the skill's local version under the YAML `metadata: version:` field in its `SKILL.md` (e.g., from `1.0.0` to `1.0.1`).
+2. Increment the global plugin version in `.claude-plugin/marketplace.json` (e.g., from `1.5.1` to `1.5.2`).
+
 ### Pull Request Checklist
 
 - [ ] `name` matches directory name exactly
 - [ ] `name` follows naming rules (lowercase, hyphens, no `--`)
 - [ ] `description` is 1-1024 chars with trigger phrases
 - [ ] `SKILL.md` is under 500 lines
+- [ ] Version numbers are updated in both the affected skill's frontmatter and `.claude-plugin/marketplace.json`
 - [ ] No sensitive data or credentials
