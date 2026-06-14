@@ -1,8 +1,8 @@
 ---
 name: zero-to-tenk-sprint
-description: "Apply this skill when a user wants to launch a rapid organic growth campaign to scale from zero to 10k followers in a short timeframe (e.g., one month). Trigger when the user mentions going from 0 to 10k followers, hiring a growth strategist, batch filming, viral competitor analysis, or creating a 30-day content sprint plan. For follower tier strategies, see account-growth-by-follower-tier. For specific script templates, see short-form-content-structures."
+description: "Apply this skill when a user wants to launch a rapid organic growth campaign to scale from zero followers to any specified follower count (e.g. 1k, 10k, 50k) within a short timeframe. Trigger when the user asks how to get from 0 followers to a target number of followers, mentions starting from scratch and scaling, or requests a 30-day content sprint plan, batch filming, or viral competitor analysis. For stage-by-stage tier strategies starting above zero, see account-growth-by-follower-tier. For specific script templates, see short-form-content-structures."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Zero-to-10k Growth Sprint

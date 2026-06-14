@@ -1,8 +1,8 @@
 ---
 name: account-growth-by-follower-tier
-description: "Apply this skill when a user wants to plan, brainstorm, or optimize their social media organic content strategy based on their current follower count. Trigger when the user mentions strategies for accounts with 100 followers, 1,000 followers, 10k followers, 50k followers, 100k followers, or 1M followers, or asks how to scale their audience. For general short-form script templates, see short-form-content-structures. For running Facebook and Meta ads, see facebook-retention-conversion-ads."
+description: "Apply this skill when a user wants to plan, brainstorm, or optimize their organic social media strategy based on their current follower count. Trigger when the user specifies a starting point and a destination follower count (e.g. 'I am at 100 followers and want to get to 10k' or 'I am at 0 followers and want to reach 100k') or asks how to progress from their current follower tier to a higher tier. For starting a rapid 30-day content sprint from exactly zero, see zero-to-tenk-sprint. For script templates, see short-form-content-structures."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Account Growth by Follower Tier
