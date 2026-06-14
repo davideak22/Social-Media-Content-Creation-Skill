@@ -2,17 +2,17 @@
   "name": "social-media-content-creation-skill",
   "owner": {
     "name": "David Deak",
-    "url": "https://github.com/davideak22"
+    "url": "https://daviddeak.com"
   },
   "metadata": {
     "description": "Agent skills for social media content creation, viral hooks, scripting, and brainstorming",
-    "version": "1.0.0",
+    "version": "1.5.0",
     "repository": "https://github.com/davideak22/Social-Media-Content-Creation-Skill"
   },
   "plugins": [
     {
       "name": "social-media-content-creation-skill",
-      "description": "Skills for content creators, marketers, and personal brands: short-form content structures, scripting templates, hooks, and brainstorming ideas for viral TikTok, Reels, and YouTube Shorts",
+      "description": "Skills for content creators, marketers, and personal brands: short-form content structures, short-form content maxing, video formats (yap, educational, storytelling), carousel content structures, organic zero-to-10k growth sprints, scripting templates, hooks, brainstorming ideas for viral TikTok, Reels, YouTube Shorts, high-converting Facebook/Meta Ads, and organic account growth strategy by follower count",
       "source": "./"
     }
   ]

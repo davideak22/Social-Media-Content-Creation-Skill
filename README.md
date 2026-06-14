@@ -27,7 +27,13 @@ Skills are structured Markdown documents following the [Agent Skills specificati
 
 | Skill | Description |
 | :--- | :--- |
+| [account-growth-by-follower-tier](skills/account-growth-by-follower-tier/) | A framework for tailoring your social media organic content strategy based on your current follower count, focusing on the right actions at each growth stage. |
+| [carousel-content-structures](skills/carousel-content-structures/) | Helps brainstorm, plan, and script high-performing slide-by-slide carousel posts (LinkedIn and Instagram) using 8 proven structures. |
+| [facebook-retention-conversion-ads](skills/facebook-retention-conversion-ads/) | A guide for setting up and scaling high-converting Facebook and Meta Ads by amplifying high-performing organic short-form videos to preserve social proof. |
 | [short-form-content-structures](skills/short-form-content-structures/) | Helps generate short-form scripts, hooks, and video concepts using 10 proven viral content structures (e.g., countdown lists, Peak Life formats, Bracket Battles, nostalgic remember hooks). |
+| [short-form-content-maxing](skills/short-form-content-maxing/) | A guide to personal brand strategy and the 70-20-10 content ratio to build audience trust, double down on viral outliers, and post daily. |
+| [short-form-video-formats](skills/short-form-video-formats/) | A guide for planning, scripting, and formatting short-form videos into Yap (natural/conversational), Educational (highly visual/edited), and Storytelling (narrative-driven) pillars. |
+| [zero-to-tenk-sprint](skills/zero-to-tenk-sprint/) | A 30-day growth sprint framework to launch a personal brand and scale from zero to 10k followers using outlier research, batch filming, and multi-platform publishing. |
 
 ---
 
