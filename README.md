@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="social-media-skill-logo-transparent.png" alt="Social Media Content Creation Skills Logo" width="400">
+  <img src="social-media-skill-logo-transparent.png" alt="Social Media Content Creation Skills Logo" width="200">
 </p>
 
 # Social Media Content Creation Skills for AI Agents
