@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="social-media-skill-logo-transparent.png" alt="Social Media Content Creation Skills Logo" width="400">
+</p>
+
 # Social Media Content Creation Skills for AI Agents
 
 A public repository of agent skills tailored for content creators, founders, and social media managers. When added to your development environment, these skills enable AI coding agents (such as Claude Code, Cursor, Windsurf, and Vercel Skills) to brainstorm niche-specific ideas, write high-engagement short-form video scripts, generate hooks, and map out viral content playbooks based on real-world patterns.
