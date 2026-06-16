@@ -2,7 +2,7 @@
 name: b2b-b2c-content-creation
 description: "Apply this skill when a user wants to brainstorm, script, or write social media content tailored specifically for B2B (Business-to-Business) or B2C (Business-to-Consumer) audiences. Trigger when the user mentions B2B vs B2C content, business target audiences, organic prompts for B2B/B2C, social proof content, emotional impulse triggers, or asks how to adapt a script for businesses versus consumers. For general video formatting, see short-form-video-formats. For specific script templates, see short-form-content-structures."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # B2B vs B2C Content Creation
@@ -36,30 +36,30 @@ Below is the transcript structure of a high-performing comparison video showing 
 ```
 [00:00:00 - Character A: Casual, expressive]
 On-Screen Text: B2C Content
-"This is content for B2C: Oh my god, Rebel's Cappi! It is an absolute beauty..."
+"This is content for B2C: Unboxing time! Oh my god, these cloud slides are literally like walking on marshmallows..."
 
 [00:00:04 - Character B: Professional, direct]
 On-Screen Text: B2B Content
-"This is content for B2B: My business just hit its first $2 million month."
+"This is content for B2B: How we scaled our client's SaaS from zero to forty-thousand dollars in monthly recurring revenue."
 
 [00:00:08 - Character A: Casual, friendly]
 On-Screen Text: B2C Content
-"This is content for B2C: What were we talking about last time you came in? I think it was about a week back."
+"This is content for B2C: Tell me I'm not the only one who does a whole deep-clean of the kitchen instead of studying..."
 
 [00:00:12 - Character B: Direct, authoritative]
 On-Screen Text: B2B Content
-"This is content for B2B: It's come to my attention that some of you don't understand the basics of a funnel."
+"This is content for B2B: If you aren't mapping your churn rate, you have no idea how much money is leaking from your business."
 
 [00:00:18 - Breakdown/Explanation: Authoritative tone]
 On-Screen Text: The Real Difference
-"See the difference? B2B content shows more social proof, authority, and results. B2C content shows more broad, fun, relatable content."
+"See the difference? B2B content focuses on systems, credibility, and real business outcomes. B2C content relies on lifestyle, emotional relatability, and impulse."
 
 [00:00:26 - Key Psychology Takeaway]
 "B2B is more complex and involves a lot of decision-makers who need certainty and proof that you know what you're doing. B2C is usually one decision-maker and is usually an impulse driven by emotion."
 
 [00:00:36 - CTA with Keyword Comment Hook]
-On-Screen Text: Comment "AI" For Prompts
-"Now, if you want the AI prompts to create months of content ideas, whether it's B2B or B2C, comment 'AI' and I'll send it over to you."
+On-Screen Text: Comment "IDEAS" For Prompts
+"Now, if you want the complete list of B2B and B2C prompts to map out a whole month of content ideas, comment 'IDEAS' and I'll send it over."
 ```
 
 ---

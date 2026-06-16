@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Agent skills for social media content creation, viral hooks, scripting, and brainstorming",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "repository": "https://github.com/davideak22/Social-Media-Content-Creation-Skill"
   },
   "plugins": [
