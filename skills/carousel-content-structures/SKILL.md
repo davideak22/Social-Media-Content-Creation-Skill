@@ -2,7 +2,7 @@
 name: carousel-content-structures
 description: "Apply this skill when a user wants to brainstorm, plan, or script high-performing carousel posts for social media (such as Instagram or LinkedIn). Trigger when the user mentions carousels, carousel structures, carousel templates, slide-by-slide scripts, tutorial carousels, do's vs don'ts carousels, or storytelling carousels. For vertical video templates, see short-form-content-structures. For video formats, see short-form-video-formats."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Carousel Content Structures
@@ -110,6 +110,43 @@ Best for categorizing concepts, strategies, or options for comparison.
 
 ---
 
+## Carousel Visual Design & Layout Playbook
+
+High-performing carousels require visual excellence to keep readers sliding. Use these design guidelines and structures to recommend layouts and visual directions when drafting carousel slide outlines.
+
+### Core Visual Principles (Avoiding the "AI-Generated" Look)
+
+* **No Card Wrappers**: Avoid boxing text inside floating border containers or rounded white/dark cards. Recommend placing text and illustrations directly on a high-contrast background for a modern, clean look.
+* **Limited, High-Contrast Palettes**: Recommend clean, high-contrast color schemes (2–3 colors max). A high-performance default is a dark slate background (`#0b0f17`), vibrant accents (e.g. lime green `#d6ff30`), high-contrast white text, and muted slate gray sub-text.
+* **Mobile-First Legibility**: Carousel slides must be optimized for small phone screens:
+  * Headers should suggest massive sizes (e.g. equivalent to `text-6xl` or `text-8xl` in CSS) with tight letter-spacing and bold/heavy uppercase styling.
+  * Body copy should suggest bold, highly legible weights (`font-black` or `font-extrabold`).
+  * Sub-text should remain readable and never go below standard sub-text limits (minimum `text-lg` or equivalent).
+* **Text Wrap & Padding Safety**: Avoid fixed-dimension placeholders. Design suggestions should assume dynamic heights with comfortable padding to prevent text clipping.
+* **Clean Vector Symbols**: Recommend custom typography symbols (e.g. `✕`, `✓`, `➔`) or inline vector icons rather than default OS emojis to keep the presentation professional.
+
+### Standard Visual Slide Layouts
+
+Map carousel slides to these proven visual layout patterns:
+
+1. **Offer Value Stack Layout**
+   * *Usage*: Perfect for transformation outcomes, pricing slides, or final CTA/product offers.
+   * *Structure*: Symmetrical layout dividing the slide in two. One half contains the pricing dynamics (e.g., massive discount or free tag next to original strikethrough price), and the other half details the feature/value checklist.
+2. **Split Columns (Problems vs. Solution)**
+   * *Usage*: Best for comparing pain points with a recommended method on problem-solution slides.
+   * *Structure*: Splits the slide vertically. Left column features a warning background (e.g., red or bright accent) with dark text outlining the problems (prefixed with `✕`). Right column features a dark/neutral background with green/white text outlining the solution (prefixed with `✓`).
+3. **Timeline / Process Roadmaps**
+   * *Usage*: Best for tutorial steps, step-by-step progressions, or workflow slides.
+   * *Structure*: A clean vertical or horizontal connector line linking circular numbered nodes (1, 2, 3) representing chronological progress.
+4. **Us vs. Them Comparison Tables**
+   * *Usage*: Best for direct comparisons (e.g., manual work vs. automated agent, old way vs. new way).
+   * *Structure*: Symmetrical grid columns matching dimensions exactly. Left column features the "Old Way" in muted gray prefixed with `✕`. Right column features the "New Way" in vibrant green/white prefixed with `✓`. The columns are separated by a flow arrow (`➔`) or a centered `VS` badge.
+5. **Contrarian Hook (Warning Layout)**
+   * *Usage*: Ideal for the opening Hook slide (Slide 1) to break pattern and trigger curiosity.
+   * *Structure*: Giant bold warning header at the top (e.g., `DON'T DO X`), followed by a subheader (`IF YOU DON'T WANT TO:`), and a flat list of positive outcomes prefixed with `✕` to create contrarian curiosity.
+
+---
+
 ## Carousel Scripting Best Practices
 
 When writing carousel scripts:
@@ -117,7 +154,8 @@ When writing carousel scripts:
 1. **Keep Slides Punchy:** Do not overcrowd slides. Stick to **1–2 lines of text** per slide to maximize readability on mobile.
 2. **Hook Contrast:** The first slide (Hook) must be high-contrast and contain a bold title to catch attention.
 3. **Visual Cues:** Always include a visual suggestion/instruction for the designer (e.g. `[Visual: Graph showing spike]`).
-4. **Clear Flow:** End every carousel script with a dedicated **CTA slide** (e.g., Save this post, Share, or Click the bio link).
+4. **Incorporate Layout Recommendations:** Always specify which visual layout pattern to use for each slide based on the structures in the *Visual Design & Layout Playbook* (e.g. `[Layout: Us vs. Them Table]`).
+5. **Clear Flow:** End every carousel script with a dedicated **CTA slide** (e.g., Save this post, Share, or Click the bio link).
 
 ---
 
