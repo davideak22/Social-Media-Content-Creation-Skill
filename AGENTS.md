@@ -99,6 +99,7 @@ skills/skill-name/
 - Code blocks for examples and templates
 - Tables for reference data
 - No excessive emojis
+- **No Em Dashes (Oxford Dashes):** Never use em dashes (—) or Oxford dashes in any copy, templates, or scripts generated. Use other punctuation (colons, commas, hyphens, or parentheses) instead.
 
 ### Clarity Principles
 
