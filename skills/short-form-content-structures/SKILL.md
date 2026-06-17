@@ -2,12 +2,12 @@
 name: short-form-content-structures
 description: "Apply this skill whenever a user wants to generate, brainstorm, or write short-form social media content (TikTok, Reels, Shorts) using proven viral structures. Trigger when the user mentions content templates, video scripts, short-form hooks, or asks how to quickly produce content for a niche. Also use when the user provides a topic and wants a ready-to-film video idea. For general marketing strategy, see social. For video production, see video."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Short-Form Content Structures
 
-A reference skill for generating short-form video scripts and content ideas using 10 proven viral structures. Use these as fill-in-the-blank templates — slot in the creator's niche or topic and the structure does the heavy lifting.
+A reference skill for generating short-form video scripts and content ideas using 10 proven viral structures. Use these as fill-in-the-blank templates: slot in the creator's niche or topic and the structure does the heavy lifting.
 
 ---
 
@@ -40,7 +40,7 @@ Triggers familiarity and emotion. Works great for lifestyle, student life, or th
 ### 4. 10 Out of 10 Insert Blank (Increasingly Niche)
 
 **Format:** `10 out of 10 signs that [X], but it gets increasingly more niche`
-**Example:** `10 out of 10 signs the person you're talking to isn't as smart as you think — but it gets increasingly more niche`
+**Example:** `10 out of 10 signs the person you're talking to isn't as smart as you think, but it gets increasingly more niche`
 Comedy and relatability. Works because the niche escalation is a payoff viewers stay for.
 
 ---

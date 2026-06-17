@@ -2,12 +2,12 @@
 name: account-growth-by-follower-tier
 description: "Apply this skill when a user wants to plan, brainstorm, or optimize their organic social media strategy based on their current follower count. Trigger when the user specifies a starting point and a destination follower count (e.g. 'I am at 100 followers and want to get to 10k' or 'I am at 0 followers and want to reach 100k') or asks how to progress from their current follower tier to a higher tier. For starting a rapid 30-day content sprint from exactly zero, see zero-to-tenk-sprint. For script templates, see short-form-content-structures."
 metadata:
-  version: 1.0.1
+  version: 1.0.2
 ---
 
 # Account Growth by Follower Tier
 
-A framework for tailoring your social media organic content strategy (especially for Instagram, TikTok, and YouTube Shorts) based on your current follower count. This guide helps you focus on the right actions at each growth stage—from initial momentum to thought leadership.
+A framework for tailoring your social media organic content strategy (especially for Instagram, TikTok, and YouTube Shorts) based on your current follower count. This guide helps you focus on the right actions at each growth stage, from initial momentum to thought leadership.
 
 ---
 
@@ -25,7 +25,7 @@ A framework for tailoring your social media organic content strategy (especially
 - **Focus:** Niche alignment and hook/topic research.
 - **Reality:** You have survived the hardest start-up phase. Views typically range from a few hundred to a few thousand.
 - **Action:**
-  - Stay highly consistent on your chosen topic—avoid jumping around topics.
+  - Stay highly consistent on your chosen topic, avoiding jumping around topics.
   - Actively research virally proven hooks and topics within your niche and iterate on them.
 
 ### 3. Outlier Scaling (10k Followers)

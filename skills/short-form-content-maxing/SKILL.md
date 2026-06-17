@@ -2,7 +2,7 @@
 name: short-form-content-maxing
 description: "Apply this skill when a user wants to plan their overall short-form content strategy, define their content ratios, build a personal brand, or prioritize video ideas over production quality. Trigger when the user mentions content maxing, the 70-20-10 rule, Caleb Ralston, personal brand equation, posting daily, idea vs video quality, or how to maintain reputation. For specific script templates, see short-form-content-structures. For video formats, see short-form-video-formats."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Short-Form Content Maxing
@@ -45,7 +45,7 @@ When planning and filming content, keep these execution guidelines in mind:
 - A video can be filmed very simply or boringly, but if the core idea is strong, it will perform. Do not let high production value substitute for a weak idea.
 
 ### 2. Learn to Post When Busy
-- Content creation is a long-term reputation asset. You only have one reputation—never compromise the value of your output.
+- Content creation is a long-term reputation asset. You only have one reputation; never compromise the value of your output.
 - Build systems to write, film, and schedule content efficiently so you can publish consistently even on your busiest days.
 
 ### 3. Maintain Consistency
