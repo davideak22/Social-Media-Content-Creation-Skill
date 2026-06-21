@@ -2,7 +2,7 @@
 name: carousel-content-structures
 description: "Apply this skill when a user wants to brainstorm, plan, or script high-performing carousel posts for social media (such as Instagram or LinkedIn). Trigger when the user mentions carousels, carousel structures, carousel templates, slide-by-slide scripts, tutorial carousels, do's vs don'ts carousels, or storytelling carousels. For vertical video templates, see short-form-content-structures. For video formats, see short-form-video-formats."
 metadata:
-  version: 1.0.1
+  version: 1.0.2
 ---
 
 # Carousel Content Structures
@@ -161,6 +161,6 @@ When writing carousel scripts:
 
 ## Related Skills
 
-- [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For short-form video layouts.
-- [short-form-video-formats](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-video-formats/SKILL.md): For scripting short vertical videos.
-- [copywriting](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For writing compelling hook copy.
+- [short-form-content-structures](skills/short-form-content-structures/SKILL.md): For short-form video layouts.
+- [short-form-video-formats](skills/short-form-video-formats/SKILL.md): For scripting short vertical videos.
+- [copywriting](skills/short-form-content-structures/SKILL.md): For writing compelling hook copy.

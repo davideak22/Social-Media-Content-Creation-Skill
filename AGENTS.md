@@ -158,3 +158,18 @@ Every time a skill or configuration is changed, updated, or fixed, version numbe
 - [ ] `SKILL.md` is under 500 lines
 - [ ] Version numbers are updated in both the affected skill's frontmatter and `.claude-plugin/marketplace.json`
 - [ ] No sensitive data or credentials
+# File Path Conventions
+
+When referencing skill files within this repository, always use **relative paths** to ensure portability and easier navigation. For example, a skill located at:
+
+```
+skills/short-form-video-formats/SKILL.md
+```
+
+should be linked in markdown as:
+
+[short-form-video-formats](skills/short-form-video-formats/SKILL.md)
+
+**Do NOT** use absolute paths such as `file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-video-formats/SKILL.md`. Relative links work across different machines and maintain the repository’s self‑contained nature.
+
+This guideline applies to all future additions to the **Related Skills** section or any other place where skill files are referenced.

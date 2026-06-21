@@ -2,7 +2,7 @@
 name: zero-to-tenk-sprint
 description: "Apply this skill when a user wants to launch a rapid organic growth campaign to scale from zero followers to any specified follower count (e.g. 1k, 10k, 50k) within a short timeframe. Trigger when the user asks how to get from 0 followers to a target number of followers, mentions starting from scratch and scaling, or requests a 30-day content sprint plan, batch filming, or viral competitor analysis. For stage-by-stage tier strategies starting above zero, see account-growth-by-follower-tier. For specific script templates, see short-form-content-structures."
 metadata:
-  version: 1.0.1
+  version: 1.0.2
 ---
 
 # Zero-to-10k Growth Sprint
@@ -37,7 +37,7 @@ Instead of guessing what content will work, research what is already performing 
 4. **Keyword & Question Mining:** Search `quora.com` and Google to find the most frequently asked questions in the industry.
 
 ### Drafting 30 Scripts
-Use the gathered insights to write 30 scripts (one for each day of the month). Combine these insights with templates from [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md).
+Use the gathered insights to write 30 scripts (one for each day of the month). Combine these insights with templates from [short-form-content-structures](skills/short-form-content-structures/SKILL.md).
 
 ---
 
@@ -99,6 +99,6 @@ Use this checklist to execute the growth sprint for the user:
 
 ## Related Skills
 
-- [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For fill-in-the-blank script frameworks.
-- [short-form-video-formats](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-video-formats/SKILL.md): For choosing between Yap, Educational, and Storytelling formats.
-- [account-growth-by-follower-tier](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/account-growth-by-follower-tier/SKILL.md): For strategy guidelines when follower milestones are reached.
+- [short-form-content-structures](skills/short-form-content-structures/SKILL.md): For fill-in-the-blank script frameworks.
+- [short-form-video-formats](skills/short-form-video-formats/SKILL.md): For choosing between Yap, Educational, and Storytelling formats.
+- [account-growth-by-follower-tier](skills/account-growth-by-follower-tier/SKILL.md): For strategy guidelines when follower milestones are reached.

@@ -2,7 +2,7 @@
 name: instagram-profile-optimization
 description: Optimize Instagram profiles for maximum reach, credibility, and trust. Use when the user asks to improve their Instagram bio, display name, profile picture, or wants a deep link strategy. Trigger phrases: "optimize Instagram profile", "Instagram bio", "Instagram reach", "profile trust", "profile optimization".
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 ## Goal
@@ -88,6 +88,6 @@ A: Add a qualifier (e.g., "Fitness Coach NYC") or use a synonym.
 
 ## Related Skills
 
-- [account-growth-by-follower-tier](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/account-growth-by-follower-tier/SKILL.md): For scaling follower count strategies.
-- [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For content frameworks.
-- [short-form-video-formats](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-video-formats/SKILL.md): For video format choices.
+- [account-growth-by-follower-tier](skills/account-growth-by-follower-tier/SKILL.md): For scaling follower count strategies.
+- [short-form-content-structures](skills/short-form-content-structures/SKILL.md): For content frameworks.
+- [short-form-video-formats](skills/short-form-video-formats/SKILL.md): For video format choices.
