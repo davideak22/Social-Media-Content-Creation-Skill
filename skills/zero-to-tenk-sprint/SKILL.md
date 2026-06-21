@@ -35,6 +35,7 @@ Instead of guessing what content will work, research what is already performing 
    - **Video Length:** What is the average duration of the outliers?
    - **Structures & CTAs:** How is the value structured, and what action is requested?
 4. **Keyword & Question Mining:** Search `quora.com` and Google to find the most frequently asked questions in the industry.
+5. **Optional Public X Signal Check:** If the user has an Xquik API key, query public X conversations for recent niche questions, objections, and repeated phrasing before finalizing scripts. Record the query, time window, sample size, `collected_at`, and source URL or post ID. Treat posts as qualitative context, not proof of market size or guaranteed reach.
 
 ### Drafting 30 Scripts
 Use the gathered insights to write 30 scripts (one for each day of the month). Combine these insights with templates from [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md).
