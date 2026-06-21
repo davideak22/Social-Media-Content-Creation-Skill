@@ -2,7 +2,7 @@
 name: b2b-b2c-content-creation
 description: "Apply this skill when a user wants to brainstorm, script, or write social media content tailored specifically for B2B (Business-to-Business) or B2C (Business-to-Consumer) audiences. Trigger when the user mentions B2B vs B2C content, business target audiences, organic prompts for B2B/B2C, social proof content, emotional impulse triggers, or asks how to adapt a script for businesses versus consumers. For general video formatting, see short-form-video-formats. For specific script templates, see short-form-content-structures."
 metadata:
-  version: 1.0.1
+  version: 1.0.2
 ---
 
 # B2B vs B2C Content Creation
@@ -115,6 +115,6 @@ When generating scripts for a user:
 
 ## Related Skills
 
-- [short-form-video-formats](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-video-formats/SKILL.md): For structuring scripts into Yap, Educational, or Storytelling pillars.
-- [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For general fill-in-the-blank script layouts.
-- [short-form-content-maxing](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-maxing/SKILL.md): For details on the 70-20-10 content allocation rule.
+- [short-form-video-formats](skills/short-form-video-formats/SKILL.md): For structuring scripts into Yap, Educational, or Storytelling pillars.
+- [short-form-content-structures](skills/short-form-content-structures/SKILL.md): For general fill-in-the-blank script layouts.
+- [short-form-content-maxing](skills/short-form-content-maxing/SKILL.md): For details on the 70-20-10 content allocation rule.

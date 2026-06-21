@@ -2,7 +2,7 @@
 name: short-form-video-formats
 description: "Apply this skill when a user wants to plan, script, or format short-form videos (TikTok, Reels, Shorts) into Yap, Educational, or Storytelling categories. Trigger when the user mentions video formats, yapping, educational content, storytelling videos, visual clones, voiceovers, green screen, or B-roll video planning. For specific script templates, see short-form-content-structures. For organic strategy, see account-growth-by-follower-tier."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Short-Form Video Formats
@@ -125,12 +125,12 @@ When asked to generate video concepts or scripts:
    - **On-Camera Visuals / B-roll instructions**
    - **Spoken Audio / Voiceover text**
    - **On-Screen Text Overlays**
-4. **Mix with Structures:** Combine these categories with templates from [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md) (e.g., using a *Countdown* structure for an **Educational** video, or a *Nostalgic Remember* hook for a **Storytelling** video).
+4. **Mix with Structures:** Combine these categories with templates from [short-form-content-structures](skills/short-form-content-structures/SKILL.md) (e.g., using a *Countdown* structure for an **Educational** video, or a *Nostalgic Remember* hook for a **Storytelling** video).
 
 ---
 
 ## Related Skills
 
-- [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For specific fill-in-the-blank script templates.
-- [account-growth-by-follower-tier](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/account-growth-by-follower-tier/SKILL.md): For planning weekly content cadences based on organic tier targets.
-- [facebook-retention-conversion-ads](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/facebook-retention-conversion-ads/SKILL.md): For running paid conversion and retention campaigns using your organic outlier posts.
+- [short-form-content-structures](skills/short-form-content-structures/SKILL.md): For specific fill-in-the-blank script templates.
+- [account-growth-by-follower-tier](skills/account-growth-by-follower-tier/SKILL.md): For planning weekly content cadences based on organic tier targets.
+- [facebook-retention-conversion-ads](skills/facebook-retention-conversion-ads/SKILL.md): For running paid conversion and retention campaigns using your organic outlier posts.

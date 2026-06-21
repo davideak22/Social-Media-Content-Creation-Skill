@@ -2,7 +2,7 @@
 name: short-form-content-maxing
 description: "Apply this skill when a user wants to plan their overall short-form content strategy, define their content ratios, build a personal brand, or prioritize video ideas over production quality. Trigger when the user mentions content maxing, the 70-20-10 rule, Caleb Ralston, personal brand equation, posting daily, idea vs video quality, or how to maintain reputation. For specific script templates, see short-form-content-structures. For video formats, see short-form-video-formats."
 metadata:
-  version: 1.0.1
+  version: 1.0.2
 ---
 
 # Short-Form Content Maxing
@@ -61,12 +61,12 @@ When helping a user plan their content strategy or brainstorm scripts:
 1. **Audit Niche Outliers:** Look for competitor content to fulfill the **70% Virally Proven** allocation.
 2. **Double Down on Success:** Identify the user's past top-performing videos to fulfill the **20% Outlier Double-Down** allocation.
 3. **Draft High-Concept Hooks:** Make sure every script starts with a proven verbal and visual pattern interrupt (e.g. `Explaining [Topic] So a 5 Year old Could Understand`).
-4. **Determine the Filming Format:** Map the topic to the correct format (Yap, Educational, or Storytelling) using [short-form-video-formats](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-video-formats/SKILL.md).
+4. **Determine the Filming Format:** Map the topic to the correct format (Yap, Educational, or Storytelling) using [short-form-video-formats](skills/short-form-video-formats/SKILL.md).
 
 ---
 
 ## Related Skills
 
-- [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For fill-in-the-blank script frameworks.
-- [short-form-video-formats](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-video-formats/SKILL.md): For choosing between Yap, Educational, and Storytelling formats.
-- [account-growth-by-follower-tier](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/account-growth-by-follower-tier/SKILL.md): For tailoring strategies as milestones are reached.
+- [short-form-content-structures](skills/short-form-content-structures/SKILL.md): For fill-in-the-blank script frameworks.
+- [short-form-video-formats](skills/short-form-video-formats/SKILL.md): For choosing between Yap, Educational, and Storytelling formats.
+- [account-growth-by-follower-tier](skills/account-growth-by-follower-tier/SKILL.md): For tailoring strategies as milestones are reached.

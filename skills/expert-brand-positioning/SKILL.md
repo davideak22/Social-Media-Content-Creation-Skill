@@ -2,7 +2,7 @@
 name: expert-brand-positioning
 description: "Apply this skill when a user wants to establish authority, structure an expert brand, define content quadrants, target a specific dream avatar, or avoid the trap of generic personal branding. Trigger when the user mentions building an expert brand, content quadrants, target avatar profiling, positive reinforcement in content, expert niche definition, or wants a strategy to attract high-intent buyers rather than just followers. For B2B vs B2C content creation, see b2b-b2c-content-creation. For short-form scripting templates, see short-form-content-structures."
 metadata:
-  version: 1.0.0
+  version: 1.0.1
 ---
 
 # Expert Brand Positioning
@@ -176,6 +176,6 @@ Third, [Action 3]."
 
 ## Related Skills
 
-- [b2b-b2c-content-creation](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/b2b-b2c-content-creation/SKILL.md): For tailoring message delivery depending on business vs. consumer targets.
-- [short-form-content-maxing](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-maxing/SKILL.md): For high-level growth frameworks.
-- [short-form-content-structures](file:///Users/deakdavid/Documents/Portfolio/Social-Media-Content-Creation-Skill/skills/short-form-content-structures/SKILL.md): For generic fill-in-the-blank script blueprints.
+- [b2b-b2c-content-creation](skills/b2b-b2c-content-creation/SKILL.md): For tailoring message delivery depending on business vs. consumer targets.
+- [short-form-content-maxing](skills/short-form-content-maxing/SKILL.md): For high-level growth frameworks.
+- [short-form-content-structures](skills/short-form-content-structures/SKILL.md): For generic fill-in-the-blank script blueprints.
